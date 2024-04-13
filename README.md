@@ -4,7 +4,7 @@
 
 ## 🌐 Links:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-web%20to%20show%20my%20work-blue)](https://portfolio-iota-orpin-37.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-web%20to%20show%20my%20work-blue)](https://portfolio-project-test-n44qdbunu-shobhit-mishra-02.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Social%20platform%20for%20working%20professional-blue)](https://www.linkedin.com/in/shobhit-mishra-915067228/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-A%20platform%20for%20practicing%20DSA-blue)](https://leetcode.com/Shobhit-Mishra-02/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-A%20platform%20for%20practicing%20CP-blue)](https://www.codechef.com/users/shobhit_2002)
